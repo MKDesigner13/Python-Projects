@@ -1,7 +1,6 @@
 """
 The class will be called Timer. 
 Its constructor accepts three arguments representing hours (a value from range [0..23]), minutes (from range [0..59]) and seconds (from range [0..59]).
-f"{num:02}"
 """
 
 class Timer:
